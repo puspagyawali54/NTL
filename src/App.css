@@ -1,0 +1,30 @@
+/* form{
+    background-color: skyblue;
+    padding: 10px;
+    text-align: center;
+    flex-direction: column;
+    gap: 10px;
+    border: 2px solid rgb(237,215, 215);
+
+
+
+}
+
+input{
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid green;
+border-radius:  3x;
+margin-left: 220px;
+}
+
+
+button{
+    background-color: blue;
+    padding: -10px;
+    color: white;
+    width: 100px;
+    margin-left: 300px;
+    
+} */
