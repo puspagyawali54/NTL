@@ -23,7 +23,7 @@ function App() {
 
    <>
    
-   <div className='bg-cover bg-center bg-fixed min-h-screen' style={{
+   <div className='bg-cover bg-center bg-fixed min-h-screen md:w-full' style={{
     backgroundImage:"url(/diamond.webp)"
    }}>
 

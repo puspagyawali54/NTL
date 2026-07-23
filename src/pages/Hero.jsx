@@ -2,10 +2,10 @@ import { Link } from "react-router-dom"
 
 function Hero() {
   return (
-    <div className='text-gray-700 p-10 mt-2 mr-10'>
+    <div className='text-gray-700 pt-0 md:mt-0 mr-10'>
         <div className='flex flex-col items-center justify-center min-h-screen text-center px-4 flex-col-reerse md:flex-row  item-center m-3 '>
             <div className='text-center p-4 max-w-2xl -mt-10'>
-                <h1 className='font-bold text-2xl'>Nepal Tade  Link </h1>
+                <h1 className='font-bold text-2xl animate-slideright'>Nepal Tade  Link </h1>
                 <h2>We are the authhorized dealer of Classic Mattress locaed in western of Nepal. 
                   you can visit us for more ..
                 </h2>

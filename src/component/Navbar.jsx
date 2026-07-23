@@ -91,7 +91,7 @@ function Navbar() {
   }
 
   return (
-    <nav className='text-white bg-blue-800'>
+    <nav className='text-white bg-gray-800  w-full'>
 
       <div className='flex justify-between items-center px-5 py-2 font-bold'>
 
@@ -118,7 +118,7 @@ function Navbar() {
             onChange={(e)=> setSearch(e.target.value)}
             className="px-3 py-1 text-gray-500 outline-none"
           />
-          <button className="bg-blue-600 px-3 py-2">
+          <button className="bg-gray-800 px-3 py-2">
             <FaSearch />
           </button>
         </form>
